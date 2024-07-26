@@ -39,7 +39,7 @@ The Onvif protocol is based on the WS-Discovery (Web Services Dynamic Discovery)
 ### Architecture
 
 The red parts and green parts are newly added:
-<img src="../images/Central_Discovery_proxy_architecture.png">
+<img src="..\images\Central_Discovery_proxy_architecture.png">
 
 ### **Design Detail**
 
